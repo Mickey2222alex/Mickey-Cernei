@@ -1,0 +1,5 @@
+{
+  "name": "Rivals",
+  "description": "A fast-paced top-down soccer game with 4v4, 5v5, and 6v6 modes. Features physics-based ball movement, AI teammates, and tactical gameplay.",
+  "requestFramePermissions": []
+}
